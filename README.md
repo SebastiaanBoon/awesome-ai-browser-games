@@ -115,7 +115,6 @@ Maintained by [nilveryboring](https://github.com/nilveryboring), who also runs [
 ## Directories & Platforms
 
 - [AI Browser Game Jam](https://itch.io/jam/ai-browser-game-jam) - itch.io jam (Feb 20 to Mar 17, 2026, theme "Ghost in the Machine") for AI-assisted games where at least half is AI-generated.
-- [AI Built Games](https://aibuiltgames.com/) - Curated collection of vibe-coded browser games made with Claude, GPT, Grok and other tools.
 - [AIGameShare](https://www.aigameshare.com/ai-browser-games) - 470+ free AI browser games, each labelled with the model that built it, with leaderboards, cloud saves and weekly trending picks.
 - [itch.io: AI-generated](https://itch.io/games/tag-ai-generated) - Games on itch.io tagged as AI-generated.
 - [itch.io: LLM](https://itch.io/games/tag-llm) - Games on itch.io tagged llm, including browser-playable ones where a language model runs the game.
